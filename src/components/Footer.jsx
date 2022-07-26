@@ -20,7 +20,7 @@ class Footer extends Component {
   render() {
     return (
       <FooterContainer>
-        <Typography sx={{fontSize:"1.5rem"}}>Made with ❤ by Atharva</Typography>
+        <Typography sx={{fontSize:"1.5rem"}}>Made with ❤ by Atharva 😊</Typography>
       </FooterContainer>
     );
   }
