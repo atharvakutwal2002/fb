@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+<h1> Facebook clone </h1>
+<h2> A responsive Facebook UI created with Reactjs and Material-UI</h2>
+
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(935).png?raw=true"/>
+<br>
+<br>
+
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(936).png?raw=true"/>
+ 
+<br>
+<br>
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(937).png?raw=true"/>
+<br>
+<br>
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(938).png?raw=true"/>
+<br>
+<br>
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(939).png?raw=true"/>
+<br>
+<br>
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(940).png?raw=true"/>
+<br>
+<br>
+<img src="https://github.com/atharvakutwal2002/fb/blob/main/public/assets/readme/Screenshot%20(941).png?raw=true"/>
+
+
+<h3>Getting Started with Create React App</h3>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
