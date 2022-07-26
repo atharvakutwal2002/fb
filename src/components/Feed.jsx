@@ -1,6 +1,7 @@
 import { Box, Stack, Skeleton } from "@mui/material";
 import React, { useState } from "react";
 import Post from "./Post";
+import { Posts } from "../dummyData";
 
 const Feed = () => {
   const [loading, setLoading] = useState(true);
@@ -19,14 +20,11 @@ const Feed = () => {
           <Skeleton variant="rectangular" height={300} />
         </Stack>
       ) : (
-        <>
-          <Post />
-          <Post />
-          <Post />
-          <Post />
-          <Post />
-          <Post />
-        </>
+        <div>
+          {Posts.map((p) => (
+            <Post key={p.id} post={p} />
+          ))}
+        </div>
       )}
     </Box>
   );

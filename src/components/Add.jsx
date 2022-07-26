@@ -70,11 +70,11 @@ import {
             </Typography>
             <UserBox>
               <Avatar
-                src="https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                src="assets/person/me1.png"
                 sx={{ width: 30, height: 30 }}
               />
               <Typography fontWeight={500} variant="span">
-                John Doe
+                Atharva 
               </Typography>
             </UserBox>
             <TextField
