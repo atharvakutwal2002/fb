@@ -5,6 +5,8 @@ import { Box, createTheme, Stack, ThemeProvider } from "@mui/material";
 import Navbar from "./components/Navbar";
 import Add from "./components/Add";
 import { useState } from "react";
+import Footer from "./components/Footer";
+
 
 function App() {
   const [mode, setMode] = useState("light");
@@ -25,6 +27,7 @@ function App() {
         </Stack>
         <Add />
       </Box>
+      <Footer/>
     </ThemeProvider>
   );
 }
